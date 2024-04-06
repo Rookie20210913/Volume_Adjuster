@@ -104,3 +104,81 @@
 2024-04-06 20:52:33,469-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
 2024-04-06 20:53:51,596-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
 2024-04-06 20:53:55,848-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:32:22,070-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:32:54,296-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:52:41,791-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:52:44,208-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:52:51,147-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:53:01,492-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:53:08,429-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:53:17,298-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-f', 'wav', '-i', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpeieoefw7', '-f', 'mp3', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmp8n5_jbeo'])
+2024-04-06 22:53:20,963-DEBUG-subprocess output: b'ffmpeg version 2024-04-04-git-478d97f303-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers'
+2024-04-06 22:53:20,963-DEBUG-subprocess output: b'  built with gcc 13.2.0 (Rev5, Built by MSYS2 project)'
+2024-04-06 22:53:20,963-DEBUG-subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-librav1e --enable-libsvtav1 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint'
+2024-04-06 22:53:20,963-DEBUG-subprocess output: b'  libavutil      59. 13.100 / 59. 13.100'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  libavcodec     61.  5.101 / 61.  5.101'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  libavformat    61.  3.100 / 61.  3.100'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  libavdevice    61.  2.100 / 61.  2.100'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  libavfilter    10.  2.101 / 10.  2.101'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  libswscale      8.  2.100 /  8.  2.100'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  libswresample   5.  2.100 /  5.  2.100'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  libpostproc    58.  2.100 / 58.  2.100'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'[aist#0:0/pcm_s16le @ 0000021c85a43a40] Guessed Channel Layout: stereo'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b"Input #0, wav, from 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpeieoefw7':"
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  Duration: 00:04:50.06, bitrate: 1411 kb/s'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, stereo, s16, 1411 kb/s'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'Stream mapping:'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'Press [q] to stop, [?] for help'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b"Output #0, mp3, to 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmp8n5_jbeo':"
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'  Metadata:'
+2024-04-06 22:53:20,964-DEBUG-subprocess output: b'    TSSE            : Lavf61.3.100'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'  Stream #0:0: Audio: mp3, 44100 Hz, stereo, s16p'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'      Metadata:'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'        encoder         : Lavc61.5.101 libmp3lame'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'size=     512KiB time=00:00:40.80 bitrate= 102.8kbits/s speed=77.8x'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'size=    1280KiB time=00:01:22.57 bitrate= 127.0kbits/s speed=79.7x'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'size=    1792KiB time=00:02:04.89 bitrate= 117.5kbits/s speed=80.9x'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'size=    2560KiB time=00:02:48.28 bitrate= 124.6kbits/s speed=81.5x'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'size=    3072KiB time=00:03:30.46 bitrate= 119.6kbits/s speed=81.5x'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'size=    3840KiB time=00:04:11.63 bitrate= 125.0kbits/s speed=81.1x'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'[libmp3lame @ 0000021c85ae8ac0] Trying to remove 1152 samples, but the queue is empty'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'[out#0/mp3 @ 0000021c85a43c00] video:0KiB audio:4533KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.005429%'
+2024-04-06 22:53:20,965-DEBUG-subprocess output: b'size=    4533KiB time=00:04:50.06 bitrate= 128.0kbits/s speed=81.1x'
+2024-04-06 22:53:23,508-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:53:40,042-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 22:53:41,274-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-f', 'wav', '-i', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpvym4tee9', '-f', 'mp3', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpk0nelyqq'])
+2024-04-06 22:53:45,053-DEBUG-subprocess output: b'ffmpeg version 2024-04-04-git-478d97f303-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers'
+2024-04-06 22:53:45,053-DEBUG-subprocess output: b'  built with gcc 13.2.0 (Rev5, Built by MSYS2 project)'
+2024-04-06 22:53:45,053-DEBUG-subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-librav1e --enable-libsvtav1 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint'
+2024-04-06 22:53:45,053-DEBUG-subprocess output: b'  libavutil      59. 13.100 / 59. 13.100'
+2024-04-06 22:53:45,053-DEBUG-subprocess output: b'  libavcodec     61.  5.101 / 61.  5.101'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  libavformat    61.  3.100 / 61.  3.100'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  libavdevice    61.  2.100 / 61.  2.100'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  libavfilter    10.  2.101 / 10.  2.101'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  libswscale      8.  2.100 /  8.  2.100'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  libswresample   5.  2.100 /  5.  2.100'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  libpostproc    58.  2.100 / 58.  2.100'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'[aist#0:0/pcm_s16le @ 000001ed17473a40] Guessed Channel Layout: stereo'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b"Input #0, wav, from 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpvym4tee9':"
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  Duration: 00:04:50.06, bitrate: 1411 kb/s'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, stereo, s16, 1411 kb/s'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'Stream mapping:'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'Press [q] to stop, [?] for help'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b"Output #0, mp3, to 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpk0nelyqq':"
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  Metadata:'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'    TSSE            : Lavf61.3.100'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'  Stream #0:0: Audio: mp3, 44100 Hz, stereo, s16p'
+2024-04-06 22:53:45,054-DEBUG-subprocess output: b'      Metadata:'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'        encoder         : Lavc61.5.101 libmp3lame'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=     512KiB time=00:00:38.81 bitrate= 108.0kbits/s speed=75.5x'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=    1024KiB time=00:01:19.20 bitrate= 105.9kbits/s speed=76.9x'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=    1792KiB time=00:01:59.01 bitrate= 123.3kbits/s speed=  77x'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=    2304KiB time=00:02:40.94 bitrate= 117.3kbits/s speed=78.4x'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=    3072KiB time=00:03:24.12 bitrate= 123.3kbits/s speed=79.2x'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=    3584KiB time=00:04:04.24 bitrate= 120.2kbits/s speed=79.2x'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=    4352KiB time=00:04:43.19 bitrate= 125.9kbits/s speed=78.5x'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'[libmp3lame @ 000001ed17518ac0] Trying to remove 1152 samples, but the queue is empty'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'[out#0/mp3 @ 000001ed17473c00] video:0KiB audio:4533KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.005429%'
+2024-04-06 22:53:45,055-DEBUG-subprocess output: b'size=    4533KiB time=00:04:50.06 bitrate= 128.0kbits/s speed=78.6x'

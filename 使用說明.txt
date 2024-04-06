@@ -1,0 +1,3 @@
+step 1: 先解壓縮 ffmpeg ffmplay ffmprobe 三個壓縮檔
+step 2: 打開 dist 資料夾
+step 3: 啟動 run2.exe
