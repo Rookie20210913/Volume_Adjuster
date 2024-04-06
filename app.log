@@ -1,0 +1,106 @@
+2024-04-06 16:22:02,497-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 16:22:04,179-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 16:22:12,089-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:23:41,803-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:23:50,318-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:24:25,910-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:25:36,727-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:25:41,182-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:31:56,084-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:34:16,172-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:35:18,499-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:36:07,867-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:36:13,095-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:36:20,502-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:36:32,049-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-f', 'wav', '-i', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpcchcjtcz', '-f', 'mp3', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpwsc98gbo'])
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'ffmpeg version 2024-04-04-git-478d97f303-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  built with gcc 13.2.0 (Rev5, Built by MSYS2 project)'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-librav1e --enable-libsvtav1 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  libavutil      59. 13.100 / 59. 13.100'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  libavcodec     61.  5.101 / 61.  5.101'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  libavformat    61.  3.100 / 61.  3.100'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  libavdevice    61.  2.100 / 61.  2.100'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  libavfilter    10.  2.101 / 10.  2.101'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  libswscale      8.  2.100 /  8.  2.100'
+2024-04-06 20:36:35,739-DEBUG-subprocess output: b'  libswresample   5.  2.100 /  5.  2.100'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'  libpostproc    58.  2.100 / 58.  2.100'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'[aist#0:0/pcm_s16le @ 000001cd573d1ac0] Guessed Channel Layout: stereo'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b"Input #0, wav, from 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpcchcjtcz':"
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'  Duration: 00:04:50.06, bitrate: 1411 kb/s'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, stereo, s16, 1411 kb/s'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'Stream mapping:'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'Press [q] to stop, [?] for help'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b"Output #0, mp3, to 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpwsc98gbo':"
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'  Metadata:'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'    TSSE            : Lavf61.3.100'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'  Stream #0:0: Audio: mp3, 44100 Hz, stereo, s16p'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'      Metadata:'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'        encoder         : Lavc61.5.101 libmp3lame'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'size=     512KiB time=00:00:40.83 bitrate= 102.7kbits/s speed=78.3x'
+2024-04-06 20:36:35,740-DEBUG-subprocess output: b'size=    1024KiB time=00:01:21.89 bitrate= 102.4kbits/s speed=78.9x'
+2024-04-06 20:36:35,741-DEBUG-subprocess output: b'size=    1792KiB time=00:02:04.55 bitrate= 117.9kbits/s speed=80.2x'
+2024-04-06 20:36:35,741-DEBUG-subprocess output: b'size=    2560KiB time=00:02:47.36 bitrate= 125.3kbits/s speed=80.9x'
+2024-04-06 20:36:35,741-DEBUG-subprocess output: b'size=    3072KiB time=00:03:28.82 bitrate= 120.5kbits/s speed=  81x'
+2024-04-06 20:36:35,741-DEBUG-subprocess output: b'size=    3840KiB time=00:04:09.44 bitrate= 126.1kbits/s speed=80.4x'
+2024-04-06 20:36:35,741-DEBUG-subprocess output: b'[libmp3lame @ 000001cd573d3280] Trying to remove 1152 samples, but the queue is empty'
+2024-04-06 20:36:35,741-DEBUG-subprocess output: b'[out#0/mp3 @ 000001cd57352100] video:0KiB audio:4533KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.005429%'
+2024-04-06 20:36:35,741-DEBUG-subprocess output: b'size=    4533KiB time=00:04:50.06 bitrate= 128.0kbits/s speed=80.5x'
+2024-04-06 20:36:39,782-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:37:53,134-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:37:58,700-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:38:14,469-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:42:06,204-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:42:13,072-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:42:53,276-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:42:57,203-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:46:08,617-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:46:12,964-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:46:14,321-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-f', 'wav', '-i', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpddk63ko5', '-f', 'mp3', 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmp12gaws4a'])
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'ffmpeg version 2024-04-04-git-478d97f303-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  built with gcc 13.2.0 (Rev5, Built by MSYS2 project)'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-librav1e --enable-libsvtav1 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libavutil      59. 13.100 / 59. 13.100'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libavcodec     61.  5.101 / 61.  5.101'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libavformat    61.  3.100 / 61.  3.100'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libavdevice    61.  2.100 / 61.  2.100'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libavfilter    10.  2.101 / 10.  2.101'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libswscale      8.  2.100 /  8.  2.100'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libswresample   5.  2.100 /  5.  2.100'
+2024-04-06 20:46:18,001-DEBUG-subprocess output: b'  libpostproc    58.  2.100 / 58.  2.100'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'[aist#0:0/pcm_s16le @ 0000027a48285000] Guessed Channel Layout: stereo'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b"Input #0, wav, from 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmpddk63ko5':"
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'  Duration: 00:04:50.06, bitrate: 1411 kb/s'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, stereo, s16, 1411 kb/s'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'Stream mapping:'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'Press [q] to stop, [?] for help'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b"Output #0, mp3, to 'C:\\Users\\Siang\\AppData\\Local\\Temp\\tmp12gaws4a':"
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'  Metadata:'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'    TSSE            : Lavf61.3.100'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'  Stream #0:0: Audio: mp3, 44100 Hz, stereo, s16p'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'      Metadata:'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'        encoder         : Lavc61.5.101 libmp3lame'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'size=     512KiB time=00:00:40.54 bitrate= 103.5kbits/s speed=79.5x'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'size=    1280KiB time=00:01:22.70 bitrate= 126.8kbits/s speed=80.4x'
+2024-04-06 20:46:18,002-DEBUG-subprocess output: b'size=    1792KiB time=00:02:04.26 bitrate= 118.1kbits/s speed=80.9x'
+2024-04-06 20:46:18,003-DEBUG-subprocess output: b'size=    2560KiB time=00:02:46.71 bitrate= 125.8kbits/s speed=80.9x'
+2024-04-06 20:46:18,003-DEBUG-subprocess output: b'size=    3072KiB time=00:03:28.56 bitrate= 120.7kbits/s speed=80.9x'
+2024-04-06 20:46:18,003-DEBUG-subprocess output: b'size=    3840KiB time=00:04:08.53 bitrate= 126.6kbits/s speed=80.5x'
+2024-04-06 20:46:18,003-DEBUG-subprocess output: b'[libmp3lame @ 0000027a48336c40] Trying to remove 1152 samples, but the queue is empty'
+2024-04-06 20:46:18,003-DEBUG-subprocess output: b'[out#0/mp3 @ 0000027a48291bc0] video:0KiB audio:4533KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.005429%'
+2024-04-06 20:46:18,003-DEBUG-subprocess output: b'size=    4533KiB time=00:04:50.06 bitrate= 128.0kbits/s speed=80.5x'
+2024-04-06 20:46:22,810-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:46:24,255-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:\\audio_test\\TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:51:13,495-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:51:53,521-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:04,012-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:24,950-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:27,485-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:28,736-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:29,928-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:31,097-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:32,268-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:52:33,469-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:53:51,596-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2024-04-06 20:53:55,848-DEBUG-subprocess.call(['.\\ffmpeg.exe', '-y', '-i', 'D:/audio_test/TESTAUDIO.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
